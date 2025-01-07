@@ -353,6 +353,12 @@ Informações:
     };
 
     function executeCommand(command) {
+    command = command.toLowerCase();
+	
+	if (command.trim() === '') {
+        return;
+    }
+	    
     if (command === 'clear' || command === 'limpar') {
         output.innerHTML = welcomeTable;
     } else if (commands[command]) {
