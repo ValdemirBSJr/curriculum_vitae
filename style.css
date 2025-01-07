@@ -245,3 +245,7 @@ a:active {
 .colors-container .colors {
             margin-top: 0;
         }
+@media (min-width: 768px) {
+    .container {
+        flex-direction: row;
+    }
