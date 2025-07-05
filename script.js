@@ -97,7 +97,7 @@ document.addEventListener('DOMContentLoaded', () => {
         <span>HFC:</span> CISCO OS, CASA OS, ARRIS OS<br>
         <span>Scripts:</span> Bash, LUA, TCL, Expect, Powershell, VBScripts, GO Lang<br>
         <span>Frontend:</span> Bootstrap, CSS, Javascript, flet, plotly, streamlit<br>
-        <span>Backend:</span> Django, fastAPI, PHP, SQLite, MySQL, SQL Server<br>
+        <span>Backend:</span> Django, fastAPI, PHP, SQLite, MySQL, SQL Server, PostgreSQL<br>
         <span>Programação:</span> Python, C#, VB.NET, VBA For Windows Application<br>
 	<span>No Code:</span> N8N<br>
         <span>Rede:</span> DHCP, DNS, LDAP<br>
