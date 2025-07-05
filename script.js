@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 </tr>
                 <tr>
                     <td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5IDkiIGNsYXNzPSJwaXhlbGljb24tbGlua2VkaW4iPgoJPHBhdGggZmlsbD0iIzBCNjZDMSIgZD0iTTEsMVY4SDhWMXogTTMsNFY3SDJWNHogTTMsMlYzSDJWMnogTTcsNFY3SDZWNUg1VjdINFY0eiIvPgoJPHJlY3QgZmlsbD0iI0ZGRkZGRiIgeD0iMiIgeT0iMiIgd2lkdGg9IjEiIGhlaWdodD0iMSIvPgoJPHJlY3QgZmlsbD0iI0ZGRkZGRiIgeD0iMiIgeT0iNCIgd2lkdGg9IjEiIGhlaWdodD0iMyIvPgoJPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTQsN0g1VjVINlY3SDdWNEg0eiIvPgo8L3N2Zz4=" class="icon" alt="linkedin icon"> LinkedIn</td>
-                    <td><a href="https://www.linkedin.com/in/valdemir-bezerra-80959724/" target="_blank">https://www.linkedin.com/in/valdemir-bezerra-80959724/</a></td>
+                    <td><a href="https://www.linkedin.com/in/valdemir-bezerra-80959724/" target="_blank">https://www.linkedin.com/in/valdemirbezerra/</a></td>
                 </tr>
                 <tr>
                     <td><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5IDkiIGNsYXNzPSJwaXhlbGljb24tZ2l0aHViIj4KCTxwYXRoIGZpbGw9IiNFQkVBRjciIGQ9Ik02LDZIOFYzSDdWMUg2VjJIM1YxSDJWM0gxVjZIM1Y3SDJWOEgzVjlINnoiLz4KCTxwYXRoIGZpbGw9IiMzNDMzNDEiIGQ9Ik0yLDBWMUgzVjJINlYxSDdWMHoiLz4KCTxwYXRoIGZpbGw9IiMzNDMzNDEiIGQ9Ik0yLDFIMVYySDBWN0gxVjhIMlY3SDNWNkgxVjNIMnoiLz4KCTxwYXRoIGZpbGw9IiMzNDMzNDEiIGQ9Ik05LDJIOFYxSDdWM0g4VjZINlY5SDdWOEg4VjdIOXoiLz4KCTxyZWN0IGZpbGw9IiMzNDMzNDEiIHg9IjIiIHk9IjgiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiLz4KPC9zdmc+" class="icon" alt="git icon"> GitHub</td>
@@ -49,8 +49,9 @@ document.addEventListener('DOMContentLoaded', () => {
         <span>HFC skills:</span> CISCO OS, CASA OS, ARRIS OS<br>
         <span>Scripts skills:</span> Bash, LUA, TCL, Expect, Powershell, VBScripts, GO Lang<br>
         <span>Frontend skills:</span> Bootstrap, CSS, Javascript, flet, plotly, streamlit<br>
-        <span>Backend skills:</span> Django, fastAPI, PHP, SQLite, MySQL, SQL Server<br>
+        <span>Backend skills:</span> Django, fastAPI, PHP, SQLite, MySQL, SQL Server, PostgreSQL<br>
         <span>Programming Languages:</span> Python, C#, VB.NET, VBA For Windows Application<br>
+	<span>Nocode skills:</span> N8N<br>
         <span>Network skills:</span> DHCP, DNS, LDAP<br>
         <span>Knowledge skills:</span> Datacenter Management and Enviromment, NOC, SLA, KPI, Repair HW<br>
         <span>Language skills:</span> Portuguese [Native], English [Intermediary]<br>
@@ -98,6 +99,7 @@ document.addEventListener('DOMContentLoaded', () => {
         <span>Frontend:</span> Bootstrap, CSS, Javascript, flet, plotly, streamlit<br>
         <span>Backend:</span> Django, fastAPI, PHP, SQLite, MySQL, SQL Server<br>
         <span>Programação:</span> Python, C#, VB.NET, VBA For Windows Application<br>
+	<span>No Code:</span> N8N<br>
         <span>Rede:</span> DHCP, DNS, LDAP<br>
         <span>Experiência:</span> Implementação e gerenciamento Datacenter, NOC, SLA, KPI, Reparo HW<br>
         <span>Idioma:</span> Português [Nativo], Inglês [Intermediário]<br>
@@ -227,6 +229,12 @@ Informations:
              the VOIP PEV indicator notes and creating a report with the offending equipment and scraping data 
              from the datacenter page with the MAC’s of the equipments getting faster responses from the datacenter 
              team in dealing with FEC and saturation monitoring 100% of offending modems.
+
+             [<span class="helper">CLARO SA – Bot for querying monitoring and observability systems</span>]
+	     Bot developed with Python, DJANGO REST, FLET, Redis, MariaDB, Nginx, Gunicorn for technical area collaborators
+             to query various signal level observability systems, network components and passive components for field access, 
+	     facilitating diagnosis and impact treatment for customers.
+	     
 			 
              [<span class="helper">UFPB - Emotion recognition system</span>]
              C# application used for psychology course completion work that displayed images of human faces
@@ -334,6 +342,11 @@ Informações:
              das notas do indicador PEV de VOIP e criação de um relatório com os equipamentos ofensores e raspagem de dados 
              da página do datacenter com os MACs dos equipamentos, obtendo respostas mais rápidas da equipe do datacenter 
              no tratamento de monitoramento de FEC e saturação de 100% dos modems ofensores.
+
+             [<span class="helper">CLARO SA – Bot de consulta aos sistemas de monitoramento e observabilidade</span>]
+             Bot desenvolvido com python, DJANGO REST, FLET, Redis, MariaDB, Nginx, Gunicorn para os colaboradores
+	     da área técnica fazerem consultas aos vários sistemas de observabilidade de níveis de sinais, dos componentes
+             de rede e passivos para acesso em campo facilitando o diagnóstico e tratativa de impacto aos clientes.
 			 
              [<span class="helper">UFPB - Sistema de reconhecimento de emoções</span>]
              Aplicação em C# usada para trabalho de conclusão de curso de psicologia que exibia imagens de rostos humanos
